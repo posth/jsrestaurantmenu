@@ -1,0 +1,86 @@
+ {
+ 	"JUNKFOOD" : 
+ 	[
+ 		{
+ 			"NAME" : "ENTREE",
+ 			"INFO" : "Asperges enveloppé dans du bacon d'érable traditionnel.",
+ 			"PICTURE" : "images/bacon_asparagus.jpg",
+ 			"PRICE" : "4.99",
+ 			"VEGAN" : "No"
+ 		},
+
+ 		{
+ 			"NAME" : "ENTREE",
+ 			"INFO" : "Guéri mozzarella avec une rose de charcuterie",
+ 			"PICTURE" : "images/mozarella-cured-meat-rose.jpg",
+ 			"PRICE" : "7.99",
+ 			"VEGAN" : "No"
+ 		},
+
+ 		 {
+ 			"NAME" : "MAIN",
+ 			"INFO" : "Soupe à l'oignon française au gruyère et suisse",
+ 			"PICTURE" : "images/french onion soup.jpg",
+ 			"PRICE" : "7.99",
+ 			"VEGAN" : "Yes"
+ 		},
+
+  		{
+ 			"NAME" : "MAIN",
+ 			"INFO" : "Napoli Pizza au Camembert.",
+ 			"PICTURE" : "images/napoli pizza.jpg",
+ 			"PRICE" : "8.99",
+ 			"VEGAN" : "Yes"
+ 		},
+
+   		{
+ 			"NAME" : "MAIN",
+ 			"INFO" : "Capecilli à la Carbonara - Champignons sauvages , beshamel sauce , pancetta , persil.",
+ 			"PICTURE" : "images/spaghetti carbonara.jpg",
+ 			"PRICE" : "11.99",
+ 			"VEGAN" : "No"
+ 		},
+
+ 		{
+ 			"NAME" : "MAIN",
+ 			"INFO" : "Filet de boeuf - nous le faisons mieux que les Anglais.",
+ 			"PICTURE" : "images/beef tenderloin.jpg",
+ 			"PRICE" : "13.99",
+ 			"VEGAN" : "No"
+ 		},
+
+ 		{
+ 			"NAME" : "MAIN",
+ 			"INFO" : "Poulet cuit à la lime avec de l'ail et coriandre.",
+ 			"PICTURE" : "images/chicken-lime-garlic-cilantro.jpg",
+ 			"PRICE" : "11.99",
+ 			"VEGAN" : "No"
+ 		},
+
+ 		 {
+ 			"NAME" : "MAIN",
+ 			"INFO" : "Ratatouille sud-ouest traditionnelle , utilisant des légumes auprès des agriculteurs locaux .",
+ 			"PICTURE" : "images/ratatouille.jpg",
+ 			"PRICE" : "9.99",
+ 			"VEGAN" : "Yes"
+ 		},
+
+  		{
+ 			"NAME" : "DESSERT",
+ 			"INFO" : "Crème brûlée maison.",
+ 			"PICTURE" : "images/creme-brulee.jpg",
+ 			"PRICE" : "2.99",
+ 			"VEGAN" : "Yes"
+ 		},
+
+ 		{
+ 			"NAME" : "DESSERT",
+ 			"INFO" : "Gâteau bleuets mousse.",
+ 			"PICTURE" : "images/blueberry mousse cake.jpg",
+ 			"PRICE" : "3.99",
+ 			"VEGAN" : "No"
+ 		}
+
+ 	]
+
+ }
